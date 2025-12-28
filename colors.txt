@@ -1,8 +1,13 @@
 green
 red
 blue
+<<<<<<< Updated upstream
 yellow
 black
 pink
 black
 white
+=======
+black
+white
+>>>>>>> Stashed changes
