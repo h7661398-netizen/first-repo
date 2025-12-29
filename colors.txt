@@ -1,9 +1,1 @@
-green
-red
-blue
-yellow
-black
-pink
-black
-white
-哈喽
+print("你好")
