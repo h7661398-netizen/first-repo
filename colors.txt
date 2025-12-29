@@ -1,4 +1,10 @@
 print("你好")
-print("你好")
-print("你好")
-print("你好")
+green
+red
+blue
+yellow
+black
+pink
+black
+white
+哈喽
